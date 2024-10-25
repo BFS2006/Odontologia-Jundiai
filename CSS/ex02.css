@@ -20,7 +20,7 @@ header {
   top: 0;
   width: 100%;
   height: 65vh; /* Use 'vh' para altura responsiva */
-  background-image: url('/imgs/dentista.jpg');
+  background-image: url('/dentista_fora.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
