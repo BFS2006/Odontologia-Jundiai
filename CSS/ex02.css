@@ -381,8 +381,9 @@ main {
   }
 
   .menu ul li {
-    margin: 10px 0;
+    /* margin: 10px 0; */
     width: 100%;
+    padding: 10px 0;
   }
 
   /* Exibir o menu ao marcar o checkbox */
